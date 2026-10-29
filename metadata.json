@@ -1,0 +1,6 @@
+{
+  "name": "AURELLE — Luxury Women's Handbags",
+  "description": "An editorial luxury e-commerce experience for artisanal women's handbags, shoulder bags, totes, crossbody bags, and evening clutches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
